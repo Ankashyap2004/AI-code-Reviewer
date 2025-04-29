@@ -19,7 +19,8 @@ An interactive AI-powered code review tool that allows users to input code and r
 
 ## 📸 Screenshots
 
-> Add screenshots or demo GIFs here (optional)
+![Screenshot (55)](https://github.com/user-attachments/assets/5fe8a0da-d28a-4816-9dcc-d3404d25bcbd)
+
 
 ## 📁 Folder Structure
 
